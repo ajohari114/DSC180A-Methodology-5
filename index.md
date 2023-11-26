@@ -2,6 +2,7 @@
 
 **Name:** Aryan Johari
 **Email:** ajohari@ucsd.edu
+
 **Section and Mentor name:** Graph Database Solutions for Solar Cell Manufacturing with Dr. David Fenning
 
 # Questions
